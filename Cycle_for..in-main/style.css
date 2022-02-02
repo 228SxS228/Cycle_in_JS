@@ -1,0 +1,5 @@
+.colums {
+    -webkit-column-count: 6;
+    -moz-column-count: 6;
+    column-count: 6;
+}
